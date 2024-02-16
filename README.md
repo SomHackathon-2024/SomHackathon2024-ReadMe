@@ -117,7 +117,7 @@ Instruccions per crear un repositori pel vostre equip:
 1. Us poseu d’acord per a que un membre de l’equip segueixi primer l’enllaç. El GitHub us demanarà el nom del grup (que es crearà al GitHub), poseu-hi el nom del vostre equip. Enhorabona!, Amb això haureu aconseguit el vostre repositori públic. Al repositori hi tindran dret d’escriptura tots els membres del grup que s’acaba de crear conjuntament amb el repositori. En aquest moment, només un membre de l’equip té accés d’escriptura.
 1. La resta dels membres de l’equip seguireu l’enllaç i, en comptes de crear un nou grup, escollireu el nom del vostre equip. D’aquesta forma estareu inclosos dins del grup i tindreu permisos d’escriptura al repositori.
 
-**Enllaç que cal seguir:**
+**Enllaç que cal seguir:** https://classroom.github.com/a/Yrb5rWAf
 
 ## Criteris de Valoració
 
