@@ -13,32 +13,12 @@ co-satisfacció tant dels visitants com dels residents. En línia amb el model d
 ### Index
 En aquest espai hi trobareu tota la informació que necessiteu com a participants, llegiu-la atentament!
 
-* [GitHub](#github): Imprescindible per lliurar el projecte!
 * [Planificació de l'esdeveniment](#planificació) i fites importants que no us heu de perdre
+* [Enllaços rellevants sobre turisme](#enllaços-rellevants-sobre-turisme) que us poden ser d'utilitat
+* [GitHub](#github): Imprescindible per lliurar el projecte!
 * [Criteris de valoració](#criteris-de-valoració) a tenir en compte
-* [Altres documents](#altres-documents-dutilitat) d'utilitat
 
 ***
-
-### GitHub
-**Imprescindible per lliurar el projecte!!!**
-
-
-El GitHub és una plataforma de compartició de repositoris [git](https://git-scm.com/). Entenent per repositori un conjunt de fitxers que poden ser tant de codi, com de documentació, com d'imatges o qualsevol altre tipus. El GitHub és una plataforma que us permet tenir tants repositoris públics com vulgueu. 
-
-El Git és un sistema de control de versions que facilita que un equip de persones treballin sobre el mateix codi (o altre tipus de document). Segurament, en aquest moment, és el sistema de control de versions que més s’usa a les empreses de software.
-
-Si és el primer cop que useu el git demaneu als mentors tecnològics que us expliquin com funciona (usarem un repositori on podeu trobar un parell d'adreces interessants https://github.com/SomHackathon-2024/CapsulaGit
-
-Com a equip participant haureu de tenir tot el que construïu durant el cap de setmana penjat a un repositori públic al GitHub. Per tant el primer que heu de fer és crear-vos un repositori tal i com us expliquem a continuació (i no d'una altra forma). Per seguir les passes indicades no cal que sapigueu res sobre git o gitHub.
-
-Instruccions per crear un repositori pel vostre equip:
-1. Si no teniu usuari de GitHub cal que us en creeu un: aneu a https://github.com/ i premeu el botó que posa “Sign up”. 
-1. Un cop teniu usuari a GitHub, crearem el repositori. Per fer-ho cal que seguiu l’enllaç que trobareu al final d’aquesta secció. Abans de fer-ho però, acabeu de llegir les instruccions. **Atenció**, tots els membres del grup hauran de seguir l’enllaç per tal de tenir accés al repositori del grup. 
-1. Us poseu d’acord per a que un membre de l’equip segueixi primer l’enllaç. El GitHub us demanarà el nom del grup (que es crearà al GitHub), poseu-hi el nom del vostre equip. Enhorabona!, Amb això haureu aconseguit el vostre repositori públic. Al repositori hi tindran dret d’escriptura tots els membres del grup que s’acaba de crear conjuntament amb el repositori. En aquest moment, només un membre de l’equip té accés d’escriptura.
-1. La resta dels membres de l’equip seguireu l’enllaç i, en comptes de crear un nou grup, escollireu el nom del vostre equip. D’aquesta forma estareu inclosos dins del grup i tindreu permisos d’escriptura al repositori.
-
-**Enllaç que cal seguir:**
 
 ## Planificació
 A continuació teniu l'horari d'activitats previst pels tres dies de Hackathon. 
@@ -86,6 +66,59 @@ A continuació teniu l'horari d'activitats previst pels tres dies de Hackathon.
 |14:00|Lliurament de premis | <ul><li>Arnau Vilardell, coordinador de SomMobilitat</li><li>Elisa Sayrol, directora acadèmica del TecnoCampus </li><li>David Bote, alcalde de Mataró i president de la Fundació  TecnoCampus Mataró-Maresme </li></ul>|
 |14:30|Cloenda | David Bote, alcalde de Mataró i president de la Fundació  TecnoCampus Mataró-Maresme. |
 
+## Enllaços rellevants sobre turisme
+A continuació es llisten alguns llocs web i fonts d’informació interessants per desenvolupar el vostre projecte. Podeu trobar informació i dades tant pel que fa a l’activitat turística com al patrimoni cultural i arquitectònic, genèriques i específiques de la ciutat de Mataró
+
+### Agenda 2030: Turisme
+* El turismo en la agenda 2030 https://www.unwto.org/es/turismo-agenda-2030
+
+###	El turisme a Mataró
+* Oficina Municiapl de Turisme
+https://visitmataro.cat/ca/planifica/oficina-de-turisme
+
+* Sobre la percepció/valoració de l’oferta turística actual
+https://www.mataro.cat/transparencia/estat-dels-serveis/enquestes-sobre-la-prestacio-de-serveis/turisme
+
+* Turistes estrangers que pernocten a Mataró (Observatori de la ciutat de Mataró)
+https://www.mataro.cat/ca/la-ciutat/observatori-de-ciutat/activitat-economica/turistes_estrangers
+
+* Medició del turisme a partir de telèfons mòbils (INE)
+   * https://www.ine.es/experimental/turismo_moviles/experimental_turismo_moviles.htm
+   * https://www.ine.es/experimental/turismo_moviles/experimental_turismo_moviles_interno.htm
+
+* Estadística d'establiments turístics a Mataró_(IDESCAT)
+https://www.idescat.cat/pub/?id=turall&geo=mun:081213
+
+* Registre Llistats d'empreses i establiments turístics ordenats per municipi_(Generalitat de Catalunya)
+https://empresa.gencat.cat/ca/treb_ambits_actuacio/turisme/professionals_turisme/emo_empreses_establiments_turistics/registre-turisme-catalunya/llistat-establiments/
+
+### El patrimoni arquitectònic
+* Patrimoni i Paisatge Urbà de Mataró (Ajuntament de Mataró)
+https://www.mataro.cat/ca/temes/urbanisme/el-patrimoni-arquitectonic-i-el-paisatge-urba/documents
+
+* Inventari dels establiments emblemàtics i elements vinculats, de Mataró (Ajuntament de Mataró)
+https://www.mataro.cat/ca/temes/urbanisme/el-patrimoni-arquitectonic-i-el-paisatge-urba/documents/document-complert-diligenciat.pdf
+
+### GitHub
+**Imprescindible per lliurar el projecte!!!**
+
+
+El GitHub és una plataforma de compartició de repositoris [git](https://git-scm.com/). Entenent per repositori un conjunt de fitxers que poden ser tant de codi, com de documentació, com d'imatges o qualsevol altre tipus. El GitHub és una plataforma que us permet tenir tants repositoris públics com vulgueu. 
+
+El Git és un sistema de control de versions que facilita que un equip de persones treballin sobre el mateix codi (o altre tipus de document). Segurament, en aquest moment, és el sistema de control de versions que més s’usa a les empreses de software.
+
+Si és el primer cop que useu el git demaneu als mentors tecnològics que us expliquin com funciona (usarem un repositori on podeu trobar un parell d'adreces interessants https://github.com/SomHackathon-2024/CapsulaGit
+
+Com a equip participant haureu de tenir tot el que construïu durant el cap de setmana penjat a un repositori públic al GitHub. Per tant el primer que heu de fer és crear-vos un repositori tal i com us expliquem a continuació (i no d'una altra forma). Per seguir les passes indicades no cal que sapigueu res sobre git o gitHub.
+
+Instruccions per crear un repositori pel vostre equip:
+1. Si no teniu usuari de GitHub cal que us en creeu un: aneu a https://github.com/ i premeu el botó que posa “Sign up”. 
+1. Un cop teniu usuari a GitHub, crearem el repositori. Per fer-ho cal que seguiu l’enllaç que trobareu al final d’aquesta secció. Abans de fer-ho però, acabeu de llegir les instruccions. **Atenció**, tots els membres del grup hauran de seguir l’enllaç per tal de tenir accés al repositori del grup. 
+1. Us poseu d’acord per a que un membre de l’equip segueixi primer l’enllaç. El GitHub us demanarà el nom del grup (que es crearà al GitHub), poseu-hi el nom del vostre equip. Enhorabona!, Amb això haureu aconseguit el vostre repositori públic. Al repositori hi tindran dret d’escriptura tots els membres del grup que s’acaba de crear conjuntament amb el repositori. En aquest moment, només un membre de l’equip té accés d’escriptura.
+1. La resta dels membres de l’equip seguireu l’enllaç i, en comptes de crear un nou grup, escollireu el nom del vostre equip. D’aquesta forma estareu inclosos dins del grup i tindreu permisos d’escriptura al repositori.
+
+**Enllaç que cal seguir:**
+
 ## Criteris de Valoració
 
 * **DIMENSIÓ EMPRENEDORIA:** Grau d’innovació, capacitat transformadora i impacte social de la proposta
@@ -112,6 +145,4 @@ A continuació teniu l'horari d'activitats previst pels tres dies de Hackathon.
    * Pot ser una eina útil per millorar la gestió de la qualitat de vida dels ciutadans i ciutadanes?
    * Fomenta la participació ciutadana? Cobenefici ciutadans/turistes
    * És un projecte col·lectiu i col.laboratiu (treball en equip)?
-
-
 
