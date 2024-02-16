@@ -107,7 +107,7 @@ El GitHub és una plataforma de compartició de repositoris [git](https://git-sc
 
 El Git és un sistema de control de versions que facilita que un equip de persones treballin sobre el mateix codi (o altre tipus de document). Segurament, en aquest moment, és el sistema de control de versions que més s’usa a les empreses de software.
 
-Si és el primer cop que useu el git demaneu als mentors tecnològics que us expliquin com funciona (usarem un repositori on podeu trobar un parell d'adreces interessants https://github.com/SomHackathon-2024/CapsulaGit
+Si és el primer cop que useu el git demaneu als mentors tecnològics que us expliquin com funciona. Al següent enllaç trobareu material per aprendre què és i com fer-lo funcionar: https://github.com/SomHackathon-2024/github-starter-course 
 
 Com a equip participant haureu de tenir tot el que construïu durant el cap de setmana penjat a un repositori públic al GitHub. Per tant el primer que heu de fer és crear-vos un repositori tal i com us expliquem a continuació (i no d'una altra forma). Per seguir les passes indicades no cal que sapigueu res sobre git o gitHub.
 
